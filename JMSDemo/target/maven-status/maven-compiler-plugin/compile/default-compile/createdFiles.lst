@@ -1,0 +1,7 @@
+JMS\config\MessagingConfiguration.class
+JMS\config\AppConfig.class
+JMS\producer\MessageSender.class
+JMS\producer\MessageSender$1.class
+JMS\MessageProducerApp.class
+JMS\receiver\MessageReceiver.class
+JMS\MessageConsumerApp.class
